@@ -11,7 +11,7 @@ settings:
   fonts.statusbar:
     global: default_size Cascadia Mono
   fonts.tabs.selected:
-    global: default_size Cascadia Mon
+    global: default_size Cascadia Mono
   fonts.tabs.unselected:
     global: default_size Cascadia Mono
   url.default_page:
